@@ -58,15 +58,15 @@ We only have two endpoints to answer the follow-up questions:
 Output the total pricing.
 
 ```
-http://localhost:8000/question/01
+GET http://localhost:8000/question/01
 ```
 
 #### Question 02
 That person's friend saw her with her new purchase and asked her how much the
-console and its controllers had cost her
+console and its controllers had cost her.
 
 ```
-http://localhost:8000/question/02
+GET http://localhost:8000/question/02
 ```
 
 
