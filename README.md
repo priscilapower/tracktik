@@ -22,6 +22,21 @@ remote controller.
 
 Sort the items by price.
 
+#### Notice
+For the calculations, here are the values of each electronic item:
+
+❖ Television A: 150.00
+
+❖ Television B: 239.50
+
+❖ Microwave: 77.45
+
+❖ Console: 88.9
+
+❖ Remote Controller: 19.99
+
+❖ Wired Controller: 9.99
+
 ### API
 This is a short API to display the responses for this test.
 
